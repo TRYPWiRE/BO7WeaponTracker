@@ -1,16 +1,64 @@
 {
-  "Assault Rifles": ["MADDOX (DLC)", "VOYAK KT-3 (DLC)", "MXR", "M115-MOD", "AK-27", "PEACEKEEPER", "X9-MAVERICK", "DS20-MIRAGE", "EGRT (DLC)"],
-  "SMGs": ["KOGOT (DLC)", "RYDEN", "RK-9", "RAZOR", "CARBON", "STURMWOLF (DLC)", "REV (DLC)", "DRAVEC", "MPC"],
-  "SHOTGUNS": ["AKITA", "ECHO-12", "M10 BREACHER", "SG-12 (DLC)"],
-  "LMGS": ["SOKOL (DLC)", "MK.78", "XM325"],
-  "MARKSMAN RIFLES": ["SWORDFISH A1 (DLC)", "M8A1", "WARDEN", "NOVALINE"],
-  "SNIPERS": ["VS-RECON", "SHADOW-SK", "XR-3 ION", "HAWKER (DLC)"],
-  "PISTOLS": ["JAGER", "CODA-9", "VELOX"],
-  "SPECIALS/LAUNCHERS": ["AAROW", "NX-RAVAGER (DLC)", "ARC", "GDL-HAVOC (DLC)"],
-  "KNIVES": ["KNIFE", "BALISTIC-KNIFE (DLC)", "FLATLINE", "SAW (DLC)"]
-
+  "Assault Rifles": [
+    "Maddox RFB",
+    "Voyak KT-3",
+    "MXR-17",
+    "M15 Mod 0",
+    "AK-27",
+    "Peacekeeper Mk1",
+    "X9 Maverick",
+    "DS20 Mirage",
+    "EGRT-17"
+  ],
+  "SMGs": [
+    "Kogot-7",
+    "Ryden 45k",
+    "Rk-9",
+    "Razor 9mm",
+    "Carbon 57",
+    "Sturmwolf 45",
+    "REV-46",
+    "Dravec 45",
+    "MPC-25"
+  ],
+  "Shotguns": [
+    "Akita",
+    "Echo 12",
+    "M10 Breacher",
+    "SG-12"
+  ],
+  "LMGs": [
+    "Sokol 545",
+    "Mk.78",
+    "XM325"
+  ],
+  "Marksman Rifles": [
+    "Swordfish A1",
+    "M8A1",
+    "Warden 308",
+    "M34 Novaline"
+  ],
+  "Sniper Rifles": [
+    "VS Recon",
+    "Shadow Sk",
+    "XR-3 Ion",
+    "Hawker HX"
+  ],
+  "Pistols": [
+    "Jäger 45",
+    "Coda 9",
+    "Velox 5.7"
+  ],
+  "Specials/Launchers": [
+    "Arrow 109",
+    "NX Ravager",
+    "A.R.C. M1",
+    "GDL Havoc"
+  ],
+  "Melee": [
+    "Knife",
+    "Ballistic Knife",
+    "Flatline Mk.II",
+    "H311-SAW"
+  ]
 }
-
-
-
-
