@@ -8,7 +8,8 @@
     "Peacekeeper Mk1",
     "X9 Maverick",
     "DS20 Mirage",
-    "EGRT-17"
+    "EGRT-17",
+    "MK35 ISR"
   ],
   "SMGs": [
     "Kogot-7",
@@ -19,7 +20,8 @@
     "Sturmwolf 45",
     "REV-46",
     "Dravec 45",
-    "MPC-25"
+    "MPC-25",
+    "VST"
   ],
   "Shotguns": [
     "Akita",
@@ -42,12 +44,14 @@
     "VS Recon",
     "Shadow Sk",
     "XR-3 Ion",
-    "Hawker HX"
+    "Hawker HX",
+    "Strider 300"
   ],
   "Pistols": [
     "Jäger 45",
     "Coda 9",
-    "Velox 5.7"
+    "Velox 5.7",
+    "1911"
   ],
   "Specials/Launchers": [
     "Arrow 109",
